@@ -27,6 +27,6 @@
     "phpunit/phpunit": "4.*",
     "phpdocumentor/phpdocumentor": "v2.*",
     "squizlabs/php_codesniffer": "2.*"
-  },
+  }
   
 }
