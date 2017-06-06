@@ -1,0 +1,36 @@
+{
+  "name": "gfaust-qb/qa-build-tools",
+
+  "description": "Metapackage for loading tools for quality assurance in a PHP based build chain.",
+
+  "version": "0.0.1-alpha1",
+
+  "type": "metapackage",
+
+  "license": "MIT",
+
+  "authors": [
+      {
+          "name": "Guido Faust",
+          "email": "guido.faust@questback.com",
+          "homepage": "http://www.questback.de",
+          "role": "Senior Technical Consultant"
+      }
+  ],
+
+  "require": {
+    "pds/skeleton": "1.*",
+    "phpmd/phpmd": "2.3.*",
+    "sebastian/phpcpd": "1.4.*",
+    "phing/phing": "2.15.*",
+    "phpunit/phpunit": "4.*",
+    "phpdocumentor/phpdocumentor": "v2.*",
+    "squizlabs/php_codesniffer": "2.*"
+  },
+  
+  "config": {
+    "platform": {
+      "php": ">=5.3.6"
+    }
+  }  
+}
