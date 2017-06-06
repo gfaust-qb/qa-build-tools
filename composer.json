@@ -20,7 +20,6 @@
 
   "require": {
     "php": ">=5.3.6",
-    "pds/skeleton": "1.*",
     "phpmd/phpmd": "2.3.*",
     "sebastian/phpcpd": "1.4.*",
     "phing/phing": "2.15.*",
