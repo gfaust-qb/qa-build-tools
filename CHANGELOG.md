@@ -2,5 +2,7 @@
 ## Version Historie
 ### 2017-06-06
 * Setup project
-  * Create CHANGELOG.md 
+  * Update `CHANGELOG.md`
+  * Create `composer.json`
+  * Create `CHANGELOG.md` 
   * Initial commit
